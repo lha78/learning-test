@@ -1,5 +1,5 @@
 <application>
   <component name="Git.Application.Settings">
-    <option name="myPathToGit" value="https://github.com/lha78/learning-test.git" />
+    <option name="myPathToGit" value="/usr/bin/git" />
   </component>
 </application>
